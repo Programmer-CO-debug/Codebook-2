@@ -19,7 +19,7 @@ public:
  }
 };
 int main() {
- Student student("Kiran", 24);
+ Student student("Sai", 24);
  student.display();
  return 0;
 }
